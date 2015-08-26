@@ -56,11 +56,24 @@ nav ul {
 
 nav ul  li a:hover {
 	text-decoration: underline;
-	color: #0eec32;
+	color: #fffe5c;
 }
 
 p {
 	font-family: 'Crimson Text', sans-serif;
 	padding: 5px;
 	color: #FFF;
+
 }
+
+.contactme ul li:hover {
+	text-decoration: underline;
+	color: #e6e6e6;
+}
+.art h1 {
+	color: white;
+	font-family: "Old English Text", arial, sans-serif;
+}
+
+
+
