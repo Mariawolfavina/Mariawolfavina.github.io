@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Crimson+Text:400,700italic);
 body, html {
 	background-color: black;
+	background-image: ;
 
 
 }
@@ -28,12 +29,17 @@ font-family: "Crimson Text", sans-serif;
 text-align: left;
 }
 
+a {
+	color: white;
+	text-decoration: none;
+}
+
 nav {
 	list-style: none;
 	text-align: center;
 }
 
-nav ul li{
+nav ul li {
 font size: 12px;
 font-family: "Crimson Text";
 color: #FFF;
@@ -48,9 +54,9 @@ nav ul {
 
 }
 
-nav ul  li:hover {
+nav ul  li a:hover {
 	text-decoration: underline;
-	color: ##0eec32;
+	color: #0eec32;
 }
 
 p {
